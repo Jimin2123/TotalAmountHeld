@@ -1,0 +1,15 @@
+{
+  "test" : {
+    "database" : "kjimin2123",
+    "username" : "kjimin2123",
+    "password" : "12345678",
+    "host": "gondr.asuscomm.com",
+    "dialect": "mysql",
+    "pool": {
+      "max": 100,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  }
+}
